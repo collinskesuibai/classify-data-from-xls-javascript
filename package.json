@@ -1,0 +1,19 @@
+{
+  "name": "data-from-xls",
+  "version": "1.0.0",
+  "description": "Convert and classify data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "xls",
+    "node",
+    "js"
+  ],
+  "author": "collins kesuibai",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.21.0"
+  }
+}
